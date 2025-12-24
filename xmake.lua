@@ -28,7 +28,7 @@ target("commonlibsse-ng-template")
     -- add commonlibsse-ng plugin
     add_rules("commonlibsse-ng.plugin", {
         name = "commonlibsse-ng-template",
-        author = "qudix",
+        author = "libxse",
         description = "SKSE64 plugin template using CommonLibSSE-NG"
     })
 
